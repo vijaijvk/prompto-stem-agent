@@ -9,9 +9,18 @@ h1, h2, h3 {
   border-radius: 8px;
   padding: 0.5em 1em;
   font-weight: bold;
+  transition: 0.3s ease;
+}
+
+.stButton>button:hover {
+  background-color: #FFB300;
 }
 
 .stSelectbox label {
   font-weight: bold;
   color: #333;
+}
+
+body {
+  background-color: #F0F2F6;
 }
