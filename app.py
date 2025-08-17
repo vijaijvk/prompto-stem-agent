@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Header with logo
-st.image("assets/images/prompto-logo.svg", width=140)
+st.image("assets/images/prompto-logo.png", width=140)
 st.title("PROMPTO: Your STEM Formula Buddy 🧠")
 
 # Subject and grade selection
